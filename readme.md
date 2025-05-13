@@ -11,6 +11,7 @@ A basic, simple and responsive webpage that introduces the main technologies use
 - Styled using CSS3 with gradients, shadows, and responsive layout.
 - Includes logos for better visual identification.
 - Organized by sections.
+- Direct link to the documentation of each subtopic by clicking on the appropriate image.
 
 ## Summary
 
